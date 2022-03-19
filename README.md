@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hola
+*Me Llamo Patricio Leon Ormazabal, **Programador Analista de sistema***
 
-<!--
-**Patricioleono/Patricioleono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*A Dia de Hoy me encuentro estudiando para convertirme en un Desarrollador Python*
+*Actualmente Estoy Titulado, y Esperando que empiezen las clases de ingenieria*
 
-Here are some ideas to get you started:
+*Mi pequeño portafolio, del progreso que he tenido www.patricioleon.dev*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aprendizaje
+
+*Siempre estoy aprendiendo cosas nuevas, me estoy capacitando a diario, el estudiar
+es un habito para mi, asi puedo desarrollar mejores habilidades*
+
+## Tecnologias
+
+'*Python, Django, HTML, CSS, Javascript Son mi Fuerte*'
