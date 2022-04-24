@@ -13,4 +13,4 @@ es un habito para mi, asi puedo desarrollar mejores habilidades*
 
 ## Tecnologias
 
-'*Python, Django, HTML, CSS, Javascript Son mi Fuerte*'
+'*PHP, HTML, CSS, Javascript Son mi Fuerte*'
