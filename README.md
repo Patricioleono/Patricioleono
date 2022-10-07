@@ -13,4 +13,4 @@ es un habito para mi, asi puedo desarrollar mejores habilidades*
 
 ## Tecnologias
 
-'*PHP, HTML, CSS, Javascript Son mi Fuerte*'
+'*PHP, HTML, CSS, Javascript, Codeigniter 3, MySql, Angular, Ionic Son mi Fuerte*'
