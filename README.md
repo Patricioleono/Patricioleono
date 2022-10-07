@@ -4,7 +4,7 @@
 *A Dia de Hoy me encuentro estudiando para convertirme en un Desarrollador Python*
 *Actualmente Estoy Titulado, y Esperando que empiezen las clases de ingenieria*
 
-*Mi pequeño portafolio, del progreso que he tenido patricioleon.dev*
+*[Mi pequeño portafolio](patricioleon.dev), del progreso que he tenido *
 
 ## Aprendizaje
 
