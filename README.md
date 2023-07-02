@@ -4,7 +4,7 @@
 *A Dia de Hoy me encuentro estudiando para convertirme en un Desarrollador Java*
 *Actualmente Estoy Titulado*
 
-*[Mi pequeño portafolio](patricio-leon.netlify.app) , del progreso que he tenido *
+*[Mi pequeño portafolio](https://patricioleon.dev/) , del progreso que he tenido *
 
 ## Aprendizaje
 
