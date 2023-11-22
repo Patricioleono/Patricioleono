@@ -1,16 +1,16 @@
-## Hola
+## Bienvenidos!!
 *Me Llamo Patricio Leon Ormazabal, **Programador Analista de sistema***
 
-*A Dia de Hoy me encuentro estudiando para convertirme en un Desarrollador Java*
-*Actualmente Estoy Titulado*
+*Actualmente Estoy Titulado, y me encuentro cursando Ingenieria de Informatica Mencion Desarrollo de Sitemas*
 
-*[Mi pequeño portafolio](https://patricioleon.dev/) , del progreso que he tenido *
+*[Mi portafolio Web](https://patricioleon.dev/)*
 
 ## Aprendizaje
 
 *Siempre estoy aprendiendo cosas nuevas, me estoy capacitando a diario, el estudiar
-es un habito para mi, asi puedo desarrollar mejores habilidades*
+es un habito para mi, asi puedo desarrollar mejores habilidades, en conjunto con esta habilidad he podido
+desarrollar buen manejo de la tecnologia que mas me gusta: PHP*
 
 ## Tecnologias
 
-'*PHP, HTML, CSS, Javascript, Codeigniter 3, MySql, Angular, Ionic, Python, FastApi, React, Nextjs, SQL Server, PL/SQL*'
+'*PHP 8.2, HTML, Bootstrap, Javascript, Jquery, Laravel 10, MySql, Angular, Ionic*'
